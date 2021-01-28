@@ -1,0 +1,12 @@
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\bin\Debug\net5.0\Exemplo-ClassLibrary.deps.json
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\bin\Debug\net5.0\Exemplo-ClassLibrary.dll
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\bin\Debug\net5.0\ref\Exemplo-ClassLibrary.dll
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\bin\Debug\net5.0\Exemplo-ClassLibrary.pdb
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.csprojAssemblyReference.cache
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.AssemblyInfoInputs.cache
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.AssemblyInfo.cs
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.csproj.CoreCompileInputs.cache
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.dll
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\ref\Exemplo-ClassLibrary.dll
+F:\_Código Fonte\UNICIV\CSharp\Exemplo-ClassLibrary\obj\Debug\net5.0\Exemplo-ClassLibrary.pdb

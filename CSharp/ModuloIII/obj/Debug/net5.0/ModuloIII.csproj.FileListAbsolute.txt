@@ -1,0 +1,16 @@
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.csprojAssemblyReference.cache
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.AssemblyInfoInputs.cache
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.AssemblyInfo.cs
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.csproj.CoreCompileInputs.cache
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.exe
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.deps.json
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.runtimeconfig.json
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.runtimeconfig.dev.json
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.dll
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ref\ModuloIII.dll
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\bin\Debug\net5.0\ModuloIII.pdb
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.dll
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ref\ModuloIII.dll
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.pdb
+F:\_Código Fonte\UNICIV\CSharp\ModuloIII\obj\Debug\net5.0\ModuloIII.genruntimeconfig.cache
