@@ -4,10 +4,16 @@ namespace ModuloIII
 {
     class Program
     {
-            public string[] emails = new string[] { "pedro@hotmail.com", "Joao@hotmail.com", "paula@hotmail.com" };
         static void Main(string[] args)
         {
-       
+            Venda cliente = new Venda();
+            cliente.Descricao = "Nova";
+
+            Cliente.AddVendas(cliente);
+
+            Cliente.ListarVendas();
+
+            ValidatorCPF.Validar("0000000");
  
             //Cliente cliente1 = new Cliente(1, "Breno", 2500);
             ////cliente1.NivelClassificacao = ENivelClassificacao.Master;
@@ -44,15 +50,6 @@ namespace ModuloIII
            //     //");
         }
 
-        public string ResgatarListaEmails(string[] vet)
-        {
-            var listarEmails = "Cliente Possui " + emails;
-            foreach(var item in listarEmails)
-            {
-                listarEmails += emails;
-            }
-
-            return listarEmails;
-        }
+   
     }
 }

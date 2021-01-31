@@ -1,12 +1,12 @@
 using System;
-
-
+using System.Collections.Generic;
 
 namespace ModuloIII
 {
 
  public  class Cliente
  {
+        public static string[] emails = new string[] { "pedro@hotmail.com", "Joao@hotmail.com", "paula@hotmail.com" };
 
         public const decimal RENDA_MINiMA_PREMIUM = 2500;
         public const decimal VALOR_MINIMO_EM_COMPRAS_PREMIUM = 5000;
@@ -17,7 +17,8 @@ namespace ModuloIII
         public decimal RendaMensal { get ;  set ; }
         public ENivelClassificacao NivelClassificacao { get ; set; }
         public string[] Emails { get; set; }
-  
+        public  static List<Venda> Vendas { get; set; }
+
 
         //implicita -> possui o metodo ou  construtor só que não esta visivel Expliita-> esta exposto 
         public Cliente(int codigo, string nome, decimal  rendaMensal, string[] email)
@@ -64,5 +65,35 @@ namespace ModuloIII
             }
             return ENivelClassificacao.Convencional;
         }
+
+        public  static  string ResgatarListaEmails(string[] vet)
+        {
+            var listarEmails = "Cliente Possui " + emails;
+            foreach (var item in listarEmails)
+            {
+                listarEmails += emails;
+            }
+
+            return listarEmails;
+        }
+
+        public static void AddVendas(Venda NovaVenda)
+        {
+           
+              Vendas.Add(NovaVenda);
+        }
+
+        public static void ListarVendas()
+        {
+
+            foreach (var item in Vendas)
+            {
+                Console.WriteLine(item.Descricao);
+            }
+
+       
+        }
+
+  
     }
 }
